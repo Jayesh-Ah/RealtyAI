@@ -1,0 +1,12 @@
+boto3==1.26.137
+PyPDF2==3.0.1
+openai==0.27.8
+aiohttp==3.8.4
+async-timeout==4.0.2
+attrs==23.1.0
+charset-normalizer==3.1.0
+multidict==6.0.4
+yarl==1.9.2
+aiosignal==1.3.1
+frozenlist==1.3.3
+idna==3.4
