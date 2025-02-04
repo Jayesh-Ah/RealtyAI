@@ -11,13 +11,13 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # GPT-4 Configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 s3 = boto3.client(
     "s3",
-    aws_access_key_id="AKIAUUCZRWH2LU2WR4JG",
-    aws_secret_access_key="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",
-    region_name="eu-north-1"
+    aws_access_key_id="",
+    aws_secret_access_key="",
+    region_name=""
 )
 
 # Static Examples
